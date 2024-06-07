@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rating-system/static/css/main.2346a2aa.css",
+    "main.js": "/rating-system/static/js/main.add34591.js",
+    "static/media/thank-you.jpg": "/rating-system/static/media/thank-you.e0e06fb6505fc72e464d.jpg",
+    "index.html": "/rating-system/index.html",
+    "main.2346a2aa.css.map": "/rating-system/static/css/main.2346a2aa.css.map",
+    "main.add34591.js.map": "/rating-system/static/js/main.add34591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2346a2aa.css",
+    "static/js/main.add34591.js"
+  ]
+}
